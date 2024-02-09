@@ -12,6 +12,7 @@ public class BookManager {
 		books.add(new Book("069117654X", "Understanding the Digital World","Brian Kernighan"));
 		books.add(new Book("0596009658","Learning the bash Shell","Cameron Newham"));
 		books.add(new Book("0555005555","Jenkins for Beginners","Ali Maham"));
+		books.add(new Book("0555003232","Build Your Dream Project","Steve Shannigan"));
 		for(Book book:books) {
 			System.out.println(book);
 		}
